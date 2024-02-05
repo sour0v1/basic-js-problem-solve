@@ -37,7 +37,7 @@ for (let i = 0; i < sorted_arr.length - 1; i++) {
   }
   console.log(nums); */
 
-// task 3
+/* // task 3
 function array1(arr){
   let srt = arr.sort();
   const final = [];
@@ -50,4 +50,5 @@ function array1(arr){
 }
 const nums = [4, 5, 2, 7, 3, 6, 2, 9, 7, 3];
 const result = array1(nums);
-console.log("Duplicate number of - "+ nums + " are - " + result);
+console.log("Duplicate number of - "+ nums + " are - " + result); */
+
